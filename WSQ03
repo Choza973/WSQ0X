@@ -1,0 +1,14 @@
+x = input("Ingresa un numero: ")
+x = int(x)
+y = input("Ingresa otro numero: ")
+y = int(y)
+Resultado1 = x + y
+print ("La suma de los numeros es: ",Resultado1)
+Resultado2 = x - y
+print ("La resta de los numeros es: ",Resultado2)
+Resultado3 = x * y
+print ("El producto de los numeros es: ",Resultado3)
+Resultado4 = x / y
+print ("La division de los numeros es: ",Resultado4)
+Resultado5 = x // y
+print ("La division exacta de los numeros es: ",Resultado5)
